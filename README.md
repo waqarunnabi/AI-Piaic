@@ -1,6 +1,6 @@
 # Learning Artificial Intelligence
 
-- Python Basic
+- Python Basics
 - Numpy
 - Pandas
 - Machine learning
